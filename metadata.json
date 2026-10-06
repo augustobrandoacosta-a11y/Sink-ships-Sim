@@ -1,0 +1,6 @@
+{
+  "name": "Ship Destructor 2D",
+  "description": "Vote on legendary ships and unleash catastrophic weapons including Nukes, Torpedoes, Split Lasers, and Icebergs to sink them in a realistic 2D physics simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
